@@ -281,6 +281,28 @@ A planilha tem 16 linhas de produto:
 
 Vale consultar antes de dizer que não temos algo.
 
+### Tampo e painel são a mesma coisa
+
+**Não existe diferença física entre painel e tampo.** É a mesma peça colada, e
+o nome muda conforme o uso que o cliente dá. Uma chapa de 2500 x 1200 é painel
+para quem vai cortar e é tampo para quem vai usar inteira numa mesa.
+
+O que define o produto é **a medida que o cliente pede**, nunca a palavra que
+ele usou.
+
+- Cliente pede **comprimento e largura**, do tipo 70 x 70 cm ou 180 x 80 cm,
+  é peça retangular ou quadrada. Sai de painel, cortado na medida, ou da linha
+  de **tampos home**, que é 25 mm.
+- Cliente pede **diâmetro**, do tipo 300 mm, aí sim é **tampo redondo**, que é
+  uma linha própria.
+
+**Erro a não repetir:** ouvir "tampo" e assumir redondo. Sempre conferir as
+medidas antes de classificar o pedido.
+
+Lembrando que as linhas de bancada, ilha, tampo home e tampo redondo já são
+painel cortado e acabado em medidas prontas. Antes de orçar corte na medida,
+vale ver se já não existe uma referência de catálogo que atende.
+
 ### Revestimentos, vendidos por m²
 
 Pacote de 10 m² por referência. Largura e espessura são fixas, o comprimento
