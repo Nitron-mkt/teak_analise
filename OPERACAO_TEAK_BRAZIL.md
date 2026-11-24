@@ -270,35 +270,60 @@ O fator entre a 111 e a 183 é 0,904.
 
 ### O catálogo é maior do que só painel longo
 
-A planilha tem 13 linhas de produto:
+A planilha tem 16 linhas de produto:
 
 - Painéis curtos, médios e longos em **teca**, **eucalipto** e **pinus**
 - **Bancadas**, 630 mm de largura, 30 mm, de 1200 a 2200 mm
 - **Ilhas**, 900 mm de largura, 30 mm, de 1600 a 2200 mm
 - **Tampos home**, 25 mm, de 300x1200 a 800x2200
 - **Tampos redondos**, 25 mm, de 300 a 1200 mm de diâmetro
+- **Decks**, **forros** e **assoalhos**
 
 Vale consultar antes de dizer que não temos algo.
 
-### Atenção, revestimento não está nesta planilha
+### Revestimentos, vendidos por m²
 
-Deck, forro, assoalho e réguas **não constam** no arquivo do GHL. Os valores de
-revestimento vinham de outra planilha, que se perdeu. **Qualquer preço de
-revestimento precisa ser reconfirmado antes de ir ao cliente.**
+Pacote de 10 m² por referência. Largura e espessura são fixas, o comprimento
+vem mesclado de 500 a 3000 mm.
 
-O que se sabe da linha, sem preço confirmado:
-- Deck liso e ranhurado, forro e assoalho, nas réguas de **70 e 90 mm**
-- A régua de 70 mm é a de maior saída na serraria
-- Em todas as linhas de revestimento, a régua de 70 mm é **mais cara** que a de
-  90 mm, o que é alavanca de negociação
-- Comprimentos de 500, 1000, 1500, 2000, 2500 e 3000 mm. **Não se fecha pedido
-  em comprimento fixo único**, a quantidade precisa vir distribuída em pelo
-  menos três comprimentos
-- Pedido mínimo de revestimento: 10 m² por referência
+| Ref | Produto | 111 | 183 | 182 |
+|---|---|---|---|---|
+| 641.010.M00 | Deck liso 70 mm, 20 mm esp. | 247,85 | 224,05 | 198,28 |
+| 461.010.M00 | Deck liso 90 mm, 20 mm esp. | 225,93 | 204,24 | 180,74 |
+| 463.010.M00 | Deck ranhurado 70 mm, 20 mm esp. | 254,16 | 229,76 | 203,33 |
+| 464.010.M00 | Deck ranhurado 90 mm, 20 mm esp. | 233,44 | 211,03 | 186,75 |
+| 642.010.M00 | Forro 70 mm, **12 mm** esp. | 165,22 | 149,36 | 132,17 |
+| 462.010.M00 | Forro 90 mm, **12 mm** esp. | 152,65 | 138,00 | 122,12 |
+| 676.010.M00 | Assoalho 70 mm, 20 mm esp. | 247,85 | 224,05 | 198,28 |
+| 767.010.M00 | Assoalho 90 mm, 20 mm esp. | 225,93 | 204,24 | 180,74 |
 
-### Pedido mínimo
+Pontos que importam na conversa:
 
-Em torno de **R$ 2.500,00** por pedido.
+- **Deck e assoalho têm 20 mm de espessura. Forro tem 12 mm.** Não confundir.
+- Deck liso e assoalho têm **preço idêntico** em cada largura. O que diferencia
+  é o perfil, não o valor.
+- **A régua de 70 mm é mais cara que a de 90 mm em todas as linhas**, e é
+  também a de maior saída na serraria. Isso é alavanca: quem aceita 90 mm paga
+  menos.
+- **Não se fecha pedido em comprimento fixo único.** A quantidade precisa vir
+  distribuída em pelo menos três comprimentos.
+
+### Pedido mínimo, texto oficial da planilha
+
+> **Linha painéis:** faturamento mínimo aproximado de R$ 2.500,00 por pedido,
+> podendo ser composto com mix de referências e respeitando a quantidade por
+> pacote.
+
+> **Linha revestimentos:** faturamento mínimo de 10 m² por referência. A
+> largura e a espessura são fixas, com comprimentos mesclados de 500 a
+> 3.000 mm.
+
+### Fora de catálogo
+
+A própria planilha abre a porta: medidas, espécies, tipos de colagem, perfis,
+acabamentos e **grades de classificação e qualidade** diferentes dos listados
+podem ser fornecidos **sob consulta**. Vale usar essa frase quando o lead pedir
+algo que não está na tabela, em vez de dar um não seco.
 
 ---
 
@@ -316,6 +341,16 @@ Em torno de **R$ 2.500,00** por pedido.
 ---
 
 ## 10. Frete
+
+Texto oficial da planilha:
+
+> **DAP**, endereço do cliente, até 200 km de Guarulhos SP, Incoterms 2020.
+> Frete por conta da Teak Brazil. Descarga por conta do cliente.
+
+> **FCA**, fábrica Teak Brazil, Guarulhos SP, Incoterms 2020. Para destinos
+> acima de 200 km de Guarulhos SP, frete por conta do cliente.
+
+Na prática:
 
 - Até **200 km do CD de Guarulhos**, o frete pode ser por nossa conta, a partir
   de pedido na faixa de R$ 2.500. Descarga por conta do cliente.
