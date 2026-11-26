@@ -27,7 +27,8 @@ lead recebe a mensagem, não responde, e ninguém mais toca no assunto.
 A causa principal não é o texto dela. São três coisas estruturais:
 
 1. **A Nina só oferece teca.** Eucalipto e pinus nunca são mencionados, embora
-   representem 34 das 103 referências do catálogo.
+   representem 44 das 111 referências do catálogo, ou seja 40% do que temos
+   para vender.
 2. **O repasse para o comercial não tem prazo nem dono.** Leads qualificados
    ficaram 5, 7 e 9 dias parados depois de ela entregar.
 3. **Ela para cedo demais.** Hoje ela qualifica e entrega. Não apresenta
@@ -95,13 +96,14 @@ temos é deck, forro, réguas, painéis e madeira serrada"*.
 
 O catálogo tem:
 
-| Espécie | Referências |
-|---|---|
-| Teca | 69 |
-| Eucalipto | 22 |
-| Pinus | 12 |
+| Espécie | Referências | Oferecida pela Nina |
+|---|---|---|
+| Teca | 67 | sim |
+| Eucalipto | 22 | **não** |
+| Pinus | 22 | **não** |
+| **Total** | **111** | |
 
-**34 referências, um terço do catálogo, nunca são oferecidas.**
+**44 referências, 40% do catálogo, nunca são oferecidas a ninguém.**
 
 ### 4.2 O repasse não tem prazo nem dono · impacto alto
 
