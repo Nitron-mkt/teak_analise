@@ -24,7 +24,7 @@ Três números da amostra analisada:
 Quase **metade da carteira de campanha para na primeira resposta da Nina**. O
 lead recebe a mensagem, não responde, e ninguém mais toca no assunto.
 
-A causa principal não é o texto dela. São três coisas estruturais:
+A causa principal não é o texto dela. São quatro coisas estruturais:
 
 1. **A Nina só oferece teca.** Eucalipto e pinus nunca são mencionados, embora
    representem 44 das 111 referências do catálogo, ou seja 40% do que temos
@@ -33,6 +33,9 @@ A causa principal não é o texto dela. São três coisas estruturais:
    ficaram 5, 7 e 9 dias parados depois de ela entregar.
 3. **Ela para cedo demais.** Hoje ela qualifica e entrega. Não apresenta
    catálogo, não apresenta preço de tabela e não conduz para o fechamento.
+4. **Ela não lê imagem nem áudio.** E o cliente deste setor manda medida por
+   foto e explicação por áudio o tempo todo. Quando isso acontece, a
+   informação simplesmente não chega.
 
 Este relatório detalha cada ponto e propõe um plano de evolução.
 
@@ -156,7 +159,50 @@ o que é exatamente o padrão que os filtros antispam procuram.
 Enquanto as duas operações dividirem o número, qualquer pico de campanha
 consome a cota comercial e o risco é compartilhado.
 
-### 4.6 Texto sem acentuação · impacto baixo, mas visível
+### 4.6 Ela não lê imagem nem áudio · impacto alto
+
+Este é o gargalo mais subestimado, porque não aparece como erro. Aparece como
+conversa que não anda.
+
+**O cliente de madeira manda medida por foto e explicação por áudio.** É o
+hábito do setor. Ele fotografa a peça, a nota do fornecedor anterior, o
+desenho com as cotas, e grava áudio em vez de digitar especificação técnica.
+
+Hoje a Nina não acessa nenhum dos dois.
+
+**Caso documentado, lead Rafael Santos, 23/11.** Ele mandou uma lista de corte
+peça por peça para um instrumento musical e **duas imagens com as medidas**. A
+Nina respondeu:
+
+> *"Entendi. Só sendo honesta com você: eu não consigo abrir imagem, então as
+> medidas que estão nessa foto não chegaram até mim."*
+
+A postura está certa, ela não fingiu que recebeu. Mas o resultado é que **o
+lead mais bem qualificado daquele dia parou**, e o atendimento ficou dependendo
+de alguém abrir as imagens manualmente.
+
+**Áudio tem o mesmo problema e é ainda mais frequente.** Nos últimos trinta
+dias recebemos áudio de pelo menos quatro leads em negociação, alguns com
+quatro ou cinco áudios na mesma conversa, sempre com especificação técnica
+dentro. Quando o lead cai na Nina fora do horário comercial e manda áudio, esse
+conteúdo não entra no atendimento.
+
+**O efeito combinado é duplo.** Primeiro, a informação se perde e alguém
+precisa refazer o trabalho. Segundo, e pior, **o lead que se deu ao trabalho de
+fotografar e gravar é justamente o mais engajado**, e é ele que recebe a
+resposta que não serve.
+
+Soluções possíveis, em ordem de esforço:
+
+1. Transcrição automática de áudio na entrada do GHL
+2. Leitura de imagem com extração de texto e medidas
+3. Enquanto nenhuma das duas existir, **criar uma regra de desvio**: mensagem
+   com anexo gera alerta imediato para o comercial, em vez de seguir no fluxo
+   automático
+
+A terceira é a mais barata e resolve a perda de lead hoje.
+
+### 4.7 Texto sem acentuação · impacto baixo, mas visível
 
 Todas as mensagens dela saem sem acento: *"nao", "voce", "tambem",
 "producao", "classificacao"*. As mensagens do comercial saem acentuadas. O
@@ -293,7 +339,12 @@ Fora desses casos, a Nina conduz.
 | 6 | Definir patamar de volume para escalonamento | Marcelo e Ricardo |
 | 7 | Avaliar linha dedicada para a Nina, separada do comercial | Ricardo e Leonardo |
 | 8 | Corrigir acentuação | Leonardo |
-| 9 | Habilitar leitura de imagem, ou rota alternativa quando o lead manda foto | Leonardo |
+| 9 | **Regra de desvio para anexo.** Mensagem com imagem ou áudio gera alerta imediato para o comercial | Leonardo |
+| 10 | Transcrição automática de áudio na entrada | Leonardo |
+| 11 | Leitura de imagem com extração de medidas | Leonardo |
+
+O item 9 é de esforço baixo e resolve a perda de lead já na próxima semana. Os
+itens 10 e 11 são a solução definitiva e podem vir depois.
 
 ---
 
@@ -324,6 +375,7 @@ ciclo inteiro e já estão documentados conversa a conversa.
 | Leads que recebem o catálogo no primeiro contato | 0% | 100% |
 | Espécies oferecidas por conversa | 1 | 3 quando couber |
 | Tempo médio entre repasse e primeira resposta humana | não medido | abaixo de 24 h |
+| Leads que mandam anexo e ficam sem tratamento | todos | zero |
 
 A primeira e a última são as que realmente importam.
 
