@@ -67,9 +67,13 @@ Isto precisa ser preservado em qualquer evolução.
 exceção. E a justificativa é boa: *"eu não chuto número para não te dar
 informação errada"*. Não soa a esquiva, soa a critério.
 
-**Ela assume o atraso com a hora exata.** *"Você escreveu ontem às 21h06, fora
-do meu horário, eu atendo das 8h às 19h."* Dizer a hora desarma a reclamação
-antes de ela nascer.
+**Ela assume o atraso em vez de ignorar.** *"Você escreveu ontem às 21h06,
+fora do meu horário, eu atendo das 8h às 19h."* O reflexo está certo, reconhecer
+o atraso desarma a reclamação antes de ela nascer. O ajuste de calibragem é não
+dizer a hora exata em que o lead escreveu, porque isso soa a registro de sistema
+e não interessa a ele. A forma recomendada na base é *"ontem já estava fora do
+nosso horário comercial, atendemos das 9h às 18h, e por isso só estou retornando
+agora"*.
 
 **Ela posiciona a empresa na primeira mensagem.** Fabricante, serraria própria
 em Rondônia, CD em Guarulhos, FSC, nada de nativa. Mata a dúvida de
@@ -257,9 +261,10 @@ Independente disso, o mecanismo está demonstrado.
 
 ## 6. O que a Nina precisa saber
 
-O documento `OPERACAO_TEAK_BRAZIL.md`, anexo a este relatório, consolida a base
-de conhecimento construída no cod [MARCELO]. São 15 seções com o que foi
-aprendido em semanas de operação real. Os blocos diretamente aplicáveis à Nina:
+O documento `BASE_CONHECIMENTO_NINA.md`, anexo a este relatório, consolida a
+base de conhecimento construída no cod [MARCELO] e já revisada pelo comercial.
+São 16 seções com o que foi aprendido em semanas de operação real, escritas na
+segunda pessoa, para carga direta no motor. Os blocos diretamente aplicáveis à Nina:
 
 | Bloco | Para que serve |
 |---|---|
@@ -337,7 +342,7 @@ Fora desses casos, a Nina conduz.
 
 | Prioridade | Ação | Responsável |
 |---|---|---|
-| 1 | Carregar o `OPERACAO_TEAK_BRAZIL.md` na base da Nina | Leonardo |
+| 1 | Carregar o `BASE_CONHECIMENTO_NINA.md` na base da Nina | Leonardo |
 | 2 | Ensinar eucalipto e pinus, e incluir a pergunta de espécie | Leonardo |
 | 3 | Criar SLA de repasse, com alerta em 24 horas sem resposta humana | Leonardo |
 | 4 | Quebrar a abertura em blocos e variar o texto | Leonardo |
