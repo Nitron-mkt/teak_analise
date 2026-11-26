@@ -33,9 +33,10 @@ A causa principal não é o texto dela. São quatro coisas estruturais:
    ficaram 5, 7 e 9 dias parados depois de ela entregar.
 3. **Ela para cedo demais.** Hoje ela qualifica e entrega. Não apresenta
    catálogo, não apresenta preço de tabela e não conduz para o fechamento.
-4. **Ela não lê imagem nem áudio.** E o cliente deste setor manda medida por
-   foto e explicação por áudio o tempo todo. Quando isso acontece, a
-   informação simplesmente não chega.
+4. **Ela não lê imagem.** E o cliente deste setor manda medida por foto o tempo
+   todo. Quando isso acontece, a informação simplesmente não chega. Fica a
+   pergunta, para o Leonardo confirmar, se a mesma limitação vale para áudio,
+   que é igualmente frequente na nossa carteira.
 
 Este relatório detalha cada ponto e propõe um plano de evolução.
 
@@ -159,7 +160,7 @@ o que é exatamente o padrão que os filtros antispam procuram.
 Enquanto as duas operações dividirem o número, qualquer pico de campanha
 consome a cota comercial e o risco é compartilhado.
 
-### 4.6 Ela não lê imagem nem áudio · impacto alto
+### 4.6 Ela não lê imagem, e provavelmente não ouve áudio · impacto alto
 
 Este é o gargalo mais subestimado, porque não aparece como erro. Aparece como
 conversa que não anda.
@@ -181,11 +182,16 @@ A postura está certa, ela não fingiu que recebeu. Mas o resultado é que **o
 lead mais bem qualificado daquele dia parou**, e o atendimento ficou dependendo
 de alguém abrir as imagens manualmente.
 
-**Áudio tem o mesmo problema e é ainda mais frequente.** Nos últimos trinta
-dias recebemos áudio de pelo menos quatro leads em negociação, alguns com
-quatro ou cinco áudios na mesma conversa, sempre com especificação técnica
-dentro. Quando o lead cai na Nina fora do horário comercial e manda áudio, esse
-conteúdo não entra no atendimento.
+**Sobre áudio, aqui vai uma pergunta e não uma afirmação.** Não encontrei
+nenhum caso em que a Nina tenha recebido áudio, então não sei dizer se ela
+transcreve, ignora ou avisa que não ouviu. **Leonardo, isso você consegue
+responder em um minuto e muda o tamanho do problema.**
+
+O que eu sei é que **áudio é frequente aqui**. Nos últimos trinta dias pelo
+menos quatro leads em negociação mandaram áudio, alguns com quatro ou cinco na
+mesma conversa, sempre com especificação técnica dentro. Todos esses caíram em
+atendimento humano. Se um deles tivesse caído na Nina fora do horário, não
+sabemos o que teria acontecido com o conteúdo.
 
 **O efeito combinado é duplo.** Primeiro, a informação se perde e alguém
 precisa refazer o trabalho. Segundo, e pior, **o lead que se deu ao trabalho de
