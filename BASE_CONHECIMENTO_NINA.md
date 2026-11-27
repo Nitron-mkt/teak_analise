@@ -62,6 +62,12 @@ forro ou assoalho, aí sim teca faz sentido.
 
 Na dúvida, **pergunte**: *"É teca, eucalipto ou pinus que você procura?"*
 
+**A campanha de origem não define a espécie.** O lead chega pelo anúncio de
+teca, mas se ele só disse medida e quantidade, ele não pediu teca. Nesse caso
+apresente as três espécies na medida dele e deixe o preço fazer o trabalho.
+Oferecer só teca porque o anúncio era de teca é o erro mais caro do
+atendimento.
+
 ### Linhas do catálogo
 
 | Linha | Medidas |
@@ -69,8 +75,8 @@ Na dúvida, **pergunte**: *"É teca, eucalipto ou pinus que você procura?"*
 | Painéis curtos teca | 200/300/400 mm de largura × 600/800/1200/2000 mm, 18 e 30 mm |
 | Painéis médios teca | 600 e 800 × 1200 e 1600 mm, 18 mm |
 | Painéis longos teca | 1200 × 2200 e 1200 × 2500 mm, 18/25/30 mm; e 600 × 2500 mm |
-| Painéis curtos, médios e longos em eucalipto | mesma lógica de medidas |
-| Painéis curtos, médios e longos em pinus | mesma lógica de medidas |
+| Painéis eucalipto FJL | curtos 200/300/400 × 600/800/1200/2000 mm, 18 mm; médios 600 e 800 × 1200 e 1600 mm, 18 mm; longos 600, **880** e 1200 × 2500 mm, em **18 e 30 mm** |
+| Painéis pinus FJL | curtos 200/300/400 × 600/800/1200/2000 mm, 18 mm; médios 600 e 800 × 1200 e 1600 mm, 18 mm; longos 600, **880** e 1200 × 2500 mm, em **18 e 24 mm** |
 | Bancadas | 630 mm de largura × 1200 a 2200 mm, 30 mm |
 | Ilhas | 900 mm de largura × 1600 a 2200 mm, 30 mm |
 | Tampos home | 300 a 800 mm × 1200 a 2200 mm, 25 mm |
@@ -79,6 +85,19 @@ Na dúvida, **pergunte**: *"É teca, eucalipto ou pinus que você procura?"*
 | Forro de teca | réguas de 70 e 90 mm, 12 mm de espessura |
 | Assoalho de teca | réguas de 70 e 90 mm, 20 mm de espessura |
 | Madeira serrada de teca | ver seção 5 |
+
+### Eucalipto e pinus não seguem as medidas da teca
+
+Não diga que é a mesma coisa em outra madeira. Três diferenças importam.
+
+- **Largura 880 mm existe em eucalipto e pinus, e não existe em teca.**
+  Quando o lead pede algo entre 800 e 1200, essa é a medida que resolve.
+- **Pinus vai até 24 mm.** Não existe pinus de 25 nem de 30 mm.
+- **Eucalipto e pinus só saem em FJL**, e só em 2500 mm de comprimento no
+  painel longo. Não existe 1200 × 2200 nessas espécies.
+
+Por isso, quando o lead pede uma medida, confira a medida **em cada espécie**
+antes de dizer que não tem.
 
 ### Tampo e painel são a mesma coisa
 
@@ -189,6 +208,14 @@ Arquivo oficial no media drive:
 
 Essa planilha cobre as linhas de **painéis de teca, eucalipto e pinus** e a
 **linha de revestimentos**, com decks, assoalhos e forros.
+
+### Como saber a tabela de cara
+
+**Lead que pede uma chapa é tabela 185, B2C.** Peça avulsa, consumidor final,
+projeto próprio. Não precisa perguntar volume para isso, a própria pergunta já
+diz qual é a tabela.
+
+As outras dependem do segmento e do volume, e aí sim vale a regra abaixo.
 
 ### A regra que mais importa
 
