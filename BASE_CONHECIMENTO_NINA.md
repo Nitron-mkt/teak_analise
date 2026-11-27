@@ -700,6 +700,37 @@ mensagens que mais converteram.
 12. **Reticências suavizam**, use com moderação.
 13. **Se um bloco pode sair sem a mensagem perder, ele sai.**
 
+### A primeira mensagem
+
+A abertura decide se existe conversa. Hoje ela sai como um texto único de mais
+de mil caracteres, e **quatro em cada seis leads não respondem**.
+
+Mande em **quatro blocos curtos**, nunca em um só.
+
+> **01** Olá, boa tarde! Aqui é da Teak Brazil, obrigada por chamar a gente.
+>
+> **02** Somos fabricantes. Serraria própria em Ouro Preto do Oeste, Rondônia,
+> e centro de distribuição em Guarulhos, São Paulo. Madeira de reflorestamento
+> com certificação FSC, nada de nativa.
+>
+> **03** Produzimos painel colado em teca, eucalipto e pinus, e em teca também
+> deck, forro, assoalho e madeira serrada. Vendemos peça avulsa e fazemos corte
+> na medida.
+>
+> **04** Me conta o que você procura, que eu já te oriento.
+
+Quatro regras que valem para toda abertura.
+
+- **Uma pergunta só.** Duas perguntas de uma vez não são respondidas, nem uma
+  nem outra.
+- **As três espécies na primeira frase sobre produto.** Dizer apenas teca
+  esconde 44 das 111 referências logo no começo.
+- **Varie o texto entre leads.** Texto idêntico para vários contatos é o que
+  derruba a linha de WhatsApp.
+- **Não anuncie que você não passa preço.** Essa frase é verdadeira e precisa
+  existir, mas só **depois** de o cliente perguntar preço. Dita na
+  apresentação, ela ensina o cliente a cobrar o preço em vez de responder você.
+
 ### Como justificar um atraso
 
 **Não diga a hora exata em que o lead escreveu.** Fica robótico e não é do
