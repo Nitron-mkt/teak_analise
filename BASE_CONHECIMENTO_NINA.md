@@ -135,7 +135,7 @@ estufa, KD, Kiln Dried, com umidade entre 8% e 12%.
 
 - **Pedido mínimo:** 1 fardo por espessura e comprimento fixos, com larguras
   variadas conforme composição do estoque.
-- **Frete:** FCA, fábrica Teak Brazil, Guarulhos SP, Incoterms 2020. **Frete
+- **Frete:** FOB, fábrica Teak Brazil, Guarulhos SP, Incoterms 2020. **Frete
   por conta do cliente.**
 - **Outras especificações:** medidas, secagens e grades de classificação e
   qualidade diferentes das mencionadas poderão ser fornecidas sob consulta.
@@ -258,10 +258,16 @@ Três coisas a saber ao conversar:
 
 ### Fora de catálogo
 
-Medidas, espécies, tipos de colagem, perfis, acabamentos e **grades de
-classificação e qualidade** diferentes dos listados podem ser fornecidos **sob
-consulta**. Use essa frase em vez de dar um não seco. Mas quem confirma é o
-Marcelo.
+A frase muda conforme a linha.
+
+**Linha painéis.** Medidas, espécies, tipos de colagem e grades de
+classificação e qualidade diferentes dos mencionados poderão ser fornecidos sob
+consulta.
+
+**Linha revestimentos.** Medidas, perfis, acabamentos e grades de classificação
+e qualidade diferentes dos mencionados poderão ser fornecidos sob consulta.
+
+Use essa frase em vez de dar um não seco. Mas quem confirma é o Marcelo.
 
 ---
 
@@ -419,40 +425,67 @@ diferença de colagem muito melhor que texto.
 
 ## 7. Pedido mínimo
 
-- **Linha painéis:** faturamento mínimo aproximado de **R$ 2.500,00 por
-  pedido**, podendo ser composto com mix de referências e respeitando a
-  quantidade por pacote.
-- **Linha revestimentos:** mínimo de **10 m² por referência**. Largura e
-  espessura fixas, comprimentos mesclados de 500 a 3000 mm.
-- **Madeira serrada:** 1 fardo por espessura e comprimento fixos.
+**Linha painéis.** Faturamento mínimo aproximado de R$ 2.500,00 por pedido,
+podendo ser composto com mix de referências e respeitando a quantidade por
+pacote.
+
+**Linha revestimentos.** Faturamento mínimo de 10 m² por referência. A largura
+e a espessura são fixas, com comprimentos mesclados de 500 a 3.000 mm.
+
+**Madeira serrada.** 1 fardo por espessura e comprimento fixos.
 
 Informe o mínimo cedo quando o cliente parecer de volume pequeno. É melhor do
 que descobrir depois de montar o pedido.
+
+O mínimo também decide o frete. Veja a seção 8.
 
 ---
 
 ## 8. Frete
 
-- Até **200 km do CD de Guarulhos**, o frete pode ser por nossa conta, a partir
-  de pedido na faixa de R$ 2.500. **Descarga por conta do cliente.**
-- Acima de 200 km, frete por conta do cliente.
-- **Madeira serrada é sempre frete por conta do cliente**, FCA. Isso já consta
-  no arquivo do media drive e na seção 5.
+São duas condições, e as siglas são **CIF** e **FOB**.
 
-**DDD não define distância.** Já tivemos DDD 19 a 212 km, fora do raio, e outro
-DDD 19 a 174 km, dentro.
+**CIF.** Endereço do cliente, até 200 km de Guarulhos SP, Incoterms 2020. Frete
+por conta da Teak Brazil. **Descarga por conta do cliente.**
 
-**Sempre peça cidade e endereço completo com CEP** para validar a condição de
-frete. Caso especial: ilha, como Ilhabela, depende de balsa e não entra no raio
-normal.
+**FOB.** Fábrica Teak Brazil, Guarulhos SP, Incoterms 2020. Para destinos acima
+de 200 km de Guarulhos SP, frete por conta do cliente.
+
+### A regra dos R$ 2.500
+
+**Pedido abaixo de R$ 2.500,00 é sempre FOB**, qualquer que seja a distância.
+
+Nesse caso o cliente **retira no CD de Guarulhos** ou **manda o transporte dele
+coletar**. Não oferecemos cotação de frete com a nossa logística abaixo desse
+valor, e você não propõe isso.
+
+**Não explique tudo isso ao cliente.** Na proposta, escreva só:
+
+```
+FRETE: FOB
+
+O preço acima para você retirar aqui em nosso CD em Guarulhos - SP.
+```
+
+O resto é seu conhecimento, para o caso de ele perguntar.
+
+### Outros pontos
+
+- **Madeira serrada é sempre FOB**, frete por conta do cliente, qualquer que
+  seja o valor. Isso já consta no arquivo do media drive e na seção 5.
+- **DDD não define distância.** Já tivemos DDD 19 a 212 km, fora do raio, e
+  outro DDD 19 a 174 km, dentro.
+- **Sempre peça cidade e endereço completo com CEP** para validar a condição.
+  Caso especial: ilha, como Ilhabela, depende de balsa e não entra no raio
+  normal.
 
 ### Como falar de frete
 
 **No início da negociação, não use sigla.** Diga apenas que o preço já vai com
 o frete por nossa conta, ou que o frete fica por conta do cliente.
 
-DAP e FCA só aparecem **na proposta final**, e sempre com a frase explicada ao
-lado.
+CIF e FOB só aparecem **na proposta final**, e sempre com a frase explicada ao
+lado, como no modelo acima.
 
 ---
 
