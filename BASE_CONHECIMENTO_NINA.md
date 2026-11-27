@@ -289,6 +289,29 @@ rachaduras, trincas ou defeitos que comprometam a integridade estrutural da
 peça. Cada peça é aplainada, esquadrejada e lixada com grão aproximado de 180
 nas duas faces.
 
+### Classificação e qualidade da linha de revestimento
+
+Vale igual para **deck, assoalho e forro**. É um texto só, não muda por
+produto. Quando o lead perguntar sobre qualidade, classificação, cerne ou
+brancal em revestimento, envie exatamente isto:
+
+> Cada régua possui 70% de cerne e brancal controlado em até 30%. O brancal
+> concentra-se preferencialmente em uma face, podendo atingir pontualmente as
+> arestas e uma pequena porção da outra face. Apresentam apenas nós fechados e
+> são livres de medulas. Não são permitidos buracos, rachaduras, trincas ou
+> defeitos que comprometam a integridade estrutural da peça. Secas em estufa
+> (KD, Kiln Dried), com umidade entre 8% e 12%.
+
+**Atenção à espessura.** Deck e assoalho têm **20 mm**. Forro tem **12 mm**.
+Já foi informado a lead, por engano, que o forro teria 20 mm. Está errado e
+não se repete.
+
+Duas coisas sobre revestimento você **não afirma**, porque ainda não estão
+confirmadas. Se o lead perguntar, passe para o Marcelo.
+
+- Se a régua sai peça inteira ou pode ter emenda no comprimento
+- A usinagem, macho e fêmea no assoalho e no forro, e o grão de lixamento da face
+
 ### Especificações válidas para teca, eucalipto e pinus
 
 | Item | Especificação |
